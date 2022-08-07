@@ -164,6 +164,31 @@ Marquee {
 .box1{
     height: 10rem;
 }
+.card{
+    width: 40%;
+    margin-left: 25%;
+    box-shadow: #28313b;
+    
+}
+.select {
+    width: 100%;
+}
+select{
+    width: 100%;
+}
+.card label{
+    text-align:left ;
+}
+.card h1{
+    font-size: 40px;
+    color: #28313b;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
+section{
+    margin-bottom: 5%;
+}
 marquee  {
     position: absolute;
     width: 100%;
